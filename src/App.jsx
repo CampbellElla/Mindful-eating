@@ -9,7 +9,7 @@ import DietPlan from "./ui/DietPlan";
 import Pricing from "./ui/Pricing";
 import Team from "./ui/Team";
 import Blog from "./ui/Blog";
-import Signup from "./pages/SignUp";
+import Signup from "./pages/Signup";
 import Login from "./pages/Login";
 
 function Home() {
