@@ -9,8 +9,8 @@ import DietPlan from "./ui/DietPlan";
 import Pricing from "./ui/Pricing";
 import Team from "./ui/Team";
 import Blog from "./ui/Blog";
-import Signup from "./pages/Signup";
 import Login from "./pages/Login";
+import SignUp from "./pages/SignUp";
 
 function Home() {
   return (
@@ -35,7 +35,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />
-          <Route path="/signup" element={<Signup />} />
+          <Route path="/signup" element={<SignUp />} />
         </Routes>
         <Footer />
       </div>
