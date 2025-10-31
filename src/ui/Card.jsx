@@ -27,7 +27,7 @@ const Card = () => {
   ];
 
   return (
-    <section className="bg-gray-50 py-10 px-6 md:px-2">
+    <section className="bg-gray-50 py-10 px-6 md:px-12">
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-12">
           The Magic Behind

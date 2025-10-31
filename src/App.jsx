@@ -9,8 +9,8 @@ import DietPlan from "./ui/DietPlan";
 import Pricing from "./ui/Pricing";
 import Team from "./ui/Team";
 import Blog from "./ui/Blog";
-import Login from "./pages/login";
 import Signup from "./pages/SignUp";
+import Login from "./pages/Login";
 
 function Home() {
   return (
